@@ -34,3 +34,6 @@ An app for users to log their favorite memories as well as view the memories of 
 
 ### ERD
 ![](Images/erd.png)
+
+#### Making Memories Server Repo
+https://github.com/arianamichele/MakingMemories-Server
